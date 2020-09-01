@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>RestApiModeloDDD.Infastructure</id>
+    <version>1.0.0</version>
+    <authors>RestApiModeloDDD.Infastructure</authors>
+    <owners>RestApiModeloDDD.Infastructure</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="RestApiModeloDDD.Application" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="RestApiModeloDDD.Domain.Core" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="RestApiModeloDDD.Domain" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore" version="3.1.6" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\RestApiModeloDDD\RestApiModeloDDD\RestApiModeloDDD.Infastructure\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Infastructure.dll" target="lib\netcoreapp3.1\RestApiModeloDDD.Infastructure.dll" />
+  </files>
+</package>

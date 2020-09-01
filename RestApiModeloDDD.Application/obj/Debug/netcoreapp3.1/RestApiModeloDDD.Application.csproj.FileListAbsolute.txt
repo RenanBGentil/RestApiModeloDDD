@@ -1,0 +1,14 @@
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\RestApiModeloDDD\RestApiModeloDDD\RestApiModeloDDD.Application\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Application.deps.json
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\RestApiModeloDDD\RestApiModeloDDD\RestApiModeloDDD.Application\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Application.dll
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\RestApiModeloDDD\RestApiModeloDDD\RestApiModeloDDD.Application\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Application.pdb
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\RestApiModeloDDD\RestApiModeloDDD\RestApiModeloDDD.Application\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Core.dll
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\RestApiModeloDDD\RestApiModeloDDD\RestApiModeloDDD.Application\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.dll
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\RestApiModeloDDD\RestApiModeloDDD\RestApiModeloDDD.Application\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Core.pdb
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\RestApiModeloDDD\RestApiModeloDDD\RestApiModeloDDD.Application\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.pdb
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\RestApiModeloDDD\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Application.csprojAssemblyReference.cache
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\RestApiModeloDDD\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Application.AssemblyInfoInputs.cache
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\RestApiModeloDDD\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Application.AssemblyInfo.cs
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\RestApiModeloDDD\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Application.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\RestApiModeloDDD\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Application.csproj.CopyComplete
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\RestApiModeloDDD\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Application.dll
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\RestApiModeloDDD\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Application.pdb

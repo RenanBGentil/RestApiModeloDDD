@@ -1,0 +1,3 @@
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\RestApiModeloDDD\RestApiModeloDDD\RestApiModelo.Console\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Console.AssemblyInfoInputs.cache
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\RestApiModeloDDD\RestApiModeloDDD\RestApiModelo.Console\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Console.AssemblyInfo.cs
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\RestApiModeloDDD\RestApiModeloDDD\RestApiModelo.Console\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Console.csproj.CoreCompileInputs.cache
